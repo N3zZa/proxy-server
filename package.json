@@ -1,0 +1,13 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "Прокси сервер - лабораторная работа 4",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
